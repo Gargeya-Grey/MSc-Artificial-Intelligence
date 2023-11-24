@@ -1,0 +1,3 @@
+Trained models
+
+The trained weights(parameters) of the unsupervised approach and supervised approach are bigger than allowed on QMPlus, so I am attaching a link to my OneDrive (https://qmulprod-my.sharepoint.com/:f:/g/personal/ec22146_qmul_ac_uk/EsxCesA_sjVIgGgril0u_NQBSJ_kCOSnMaLQpNvVmzAr7g?e=rB2sdY) that contains the models and their respective tokenizers in .zip format. Just unzip them in the current working directory of the python notebook and use them as you may.

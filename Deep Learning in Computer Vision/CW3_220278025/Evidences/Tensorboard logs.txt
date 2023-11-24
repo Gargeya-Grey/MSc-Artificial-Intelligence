@@ -1,0 +1,2 @@
+Tensorboard Logs:
+https://tensorboard.dev/experiment/1mn08iqnRAOFEr79bOX24A/#scalars
